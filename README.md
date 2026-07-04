@@ -70,6 +70,5 @@ Scala command-line application that converts images into ASCII art.
 
 ## Contact
 
-- GitHub: [github.com/MagdalenaMusilova](https://github.com/MagdalenaMusilova)
 - LinkedIn: [linkedin.com/in/magdalenamusilova](https://www.linkedin.com/in/magdalenamusilova/)
 - Email: [magdalena.musilova@proton.me](mailto:magdalena.musilova@proton.me)
